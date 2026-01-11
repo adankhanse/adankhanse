@@ -6,3 +6,6 @@
 - Version Control: Git & GitHub
 - Problem Solving & Software Design
 
+🌱 Always Learning
+I believe in consistent learning, discipline, and writing better code every day.
+
